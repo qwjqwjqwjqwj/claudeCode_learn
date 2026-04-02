@@ -28,7 +28,7 @@ import os
 import subprocess
 
 #解决终端中中文输入和编辑的问题
-################################################
+################################################xxxxxxxxxxxxx
 try:
     import readline
     # #143 UTF-8 backspace fix for macOS libedit
